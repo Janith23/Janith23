@@ -12,8 +12,7 @@
 
 - 🎓 I’m studying **Computer Engineering** at the University of Peradeniya.  
 - 🌱 Currently learning **Java, Python, Django, HTML, CSS, JavaScript, C++, C#, Azure**.    
-- 👯 Looking to collaborate on **open-source and innovative tech projects**.  
-- 🤔 Always curious and eager to **learn new things**.  
+- 👯 Looking to collaborate on **open-source and innovative tech projects**.    
 - 🛠 Skilled in **backend development, PyQt apps, REST APIs, and defensive programming**.  
 
 ---
