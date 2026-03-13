@@ -47,10 +47,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
 </p>
-<h1 id="github-stats">📊GitHub Stats :</h1>
+<!-- <h1 id="github-stats">📊GitHub Stats :</h1>
 <p><img src="https://github-readme-stats.vercel.app/api?username=CodeWhiteWeb&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt=""><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWhiteWeb&amp;theme=radical&amp;hide_border=false" alt=""><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWhiteWeb&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt=""></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWhiteWeb&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt=""></p> -->
 <h2 id="github-trophies">🏆GitHub Trophies</h2>
 <p><img src="https://github-profile-trophy.vercel.app/?username=Janith23&amp;theme=discord&amp;no-frame=false&amp;no-bg=false&amp;margin-w=4" alt=""></p>
 ## 🐍 Contributions Snake
